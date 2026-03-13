@@ -1,0 +1,19 @@
+--> npm install
+[1G[0K⠙[1G[0K⠹[1G[0K⠸[1G[0K⠼[1G[0K⠴[1G[0K⠦[1G[0K⠧[1G[0K⠇[1G[0K⠏[1G[0K⠋[1G[0K⠙[1G[0K⠹[1G[0K
+up to date, audited 138 packages in 4s
+[1G[0K⠹[1G[0K
+[1G[0K⠹[1G[0K41 packages are looking for funding
+[1G[0K⠹[1G[0K  run `npm fund` for details
+[1G[0K⠹[1G[0K
+4 [33m[1mmoderate[22m[39m severity vulnerabilities
+
+To address all issues (including breaking changes), run:
+  npm audit fix --force
+
+Run `npm audit` for details.
+[1G[0K⠹[1G[0K[1mnpm[22m [96mnotice[39m
+[1mnpm[22m [96mnotice[39m New [31mmajor[39m version of npm available! [31m10.8.2[39m -> [34m11.11.0[39m
+[1mnpm[22m [96mnotice[39m Changelog: [34mhttps://github.com/npm/cli/releases/tag/v11.11.0[39m
+[1mnpm[22m [96mnotice[39m To update run: [4mnpm install -g npm@11.11.0[24m
+[1mnpm[22m [96mnotice[39m
+[1G[0K⠹[1G[0K
